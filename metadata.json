@@ -1,0 +1,6 @@
+{
+  "name": "SupplyIQ",
+  "description": "Supply chain operations, real-time inventory tracking, automatic stock reduction and replenishment, demand analytics and reorder forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
